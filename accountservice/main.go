@@ -2,7 +2,7 @@ package main
 
 import (
         "fmt"
-        "github.com/callistaenterprise/goblog/accountservice/service"
+        "github.com/hitxiang/goblog/accountservice/service"
 )
 
 var appName = "accountservice"
